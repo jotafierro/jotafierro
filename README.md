@@ -1,14 +1,18 @@
-## 👋 Que tal! Soy Jonathan Fierro (Ingeniero Informático 👨🏻‍💻✨🚀)
+#### 👋 Que tal!
+# Soy Jonathan Fierro - Desarrollador de Software 👨🏻‍💻✨🚀
 
-Me desempeño como **Software developer** apasionado por:
+Disfruto creando sistemas informáticos, sitios web y recientemente aplicaciones móviles. Estos son algunos de los puntos que considero esenciales:
 
+- 🚀 experiencias de alto rendimiento
 - 🤩 la simplicidad e innovación
 - 🧐 las buenas practicas
 - 🤔 los desafíos de ingenio 🤯 🤪
 
-> También soy esposo y padre de 2 hermosas pequeñas que me roban el ❤️  👨‍👩‍👧‍👧, las cuales son la fuerza que me impulsan día a día 🏅
+Actualmente soy parte del equipo de ingeniería de [U-Planner](https://www.u-planner.com), donde trabajo en una amplia variedad de proyectos interesantes y significativos a diario.
 
-Sobre todo puedo utilizar diferentes herramientas🛠 para generar soluciones que hagan la vida mas sencilla 🏖
+puedo utilizar diferentes herramientas🛠 para generar soluciones que hagan la vida mas sencilla 🏖 .
+
+> Aparte de programar. Soy esposo y padre de 2 hermosas pequeñas que me roban el ❤️  👨‍👩‍👧‍👧, las cuales son la fuerza que me impulsan día a día 🏅
 
 ### He trabajado con:
 
