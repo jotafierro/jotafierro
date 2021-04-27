@@ -8,7 +8,7 @@ Disfruto creando sistemas informáticos, sitios web y recientemente aplicaciones
 - 🧐 las buenas practicas
 - 🤔 los desafíos de ingenio 🤯 🤪
 
-Actualmente soy parte del equipo de ingeniería de [U-Planner](https://www.u-planner.com), donde trabajo en una amplia variedad de proyectos interesantes y significativos a diario.
+Actualmente soy parte del equipo de ingeniería de [uPlanner](https://www.uplanner.com), donde trabajo en una amplia variedad de proyectos interesantes y significativos a diario.
 
 puedo utilizar diferentes herramientas🛠 para generar soluciones que hagan la vida mas sencilla 🏖 .
 
