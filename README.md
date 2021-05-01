@@ -6,7 +6,8 @@ Disfruto creando sistemas informáticos, sitios web y recientemente aplicaciones
 - 🚀 experiencias de alto rendimiento
 - 🤩 la simplicidad e innovación
 - 🧐 las buenas practicas
-- 🤔 los desafíos de ingenio 🤯 🤪
+
+También disfruto 🤔 los desafíos de ingenio 🤯 🤪
 
 Actualmente soy parte del equipo de ingeniería de [uPlanner](https://www.uplanner.com), donde trabajo en una amplia variedad de proyectos interesantes y significativos a diario.
 
