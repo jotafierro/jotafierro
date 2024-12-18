@@ -62,9 +62,3 @@ puedo utilizar diferentes herramientas🛠 para generar soluciones que hagan la 
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=fff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=Bootstrap&logoColor=fff)
   ![TailwindCss](https://img.shields.io/badge/-Tailwind_css-563D7C?logo=Tailwind-Css&logoColor=fff)
-
-### Me puedes encontrar también en 🥳
-
-* [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=fff)](https://twitter.com/jota_fierro)
-* [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jotafierro/)
-* [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jotafierro.tech@gmail.com)
