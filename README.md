@@ -36,11 +36,11 @@ puedo utilizar diferentes herramientas🛠 para generar soluciones que hagan la 
 
 * **Lenguajes de programación**
 
+  ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?logo=Typescript&logoColor=fff)
   ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=fff)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff)
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=fff)
   ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=fff)
-  ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?logo=Typescript&logoColor=fff)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=fff)
 
 * **Bases de datos**
@@ -52,7 +52,10 @@ puedo utilizar diferentes herramientas🛠 para generar soluciones que hagan la 
 
 * **Frameworks**
 
+  ![NestJS](https://img.shields.io/badge/-NestJS-fff?logo=Nestjs&logoColor=ea274f)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff)
+  ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
+  ![Next](https://img.shields.io/badge/-Next-fff?logo=Next.js&logoColor=000)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=Nuxt.js&logoColor=fff)
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
